@@ -1,0 +1,27 @@
+:root {
+    box-sizing: border-box;
+    background: #d5f5f2;
+}
+
+body {
+    font-family: Raleway;
+}
+
+a > img {
+    height: 12rem;
+    margin: 4px;
+}
+
+.header {
+    margin: 1rem;
+    color: rgb(45, 214, 11);
+}
+
+button {
+    width: 200px;
+    border-radius: 6px;
+    font-size: larger;
+    background-color: #38cabe;
+    color: white;
+    font-weight: 600;
+}
